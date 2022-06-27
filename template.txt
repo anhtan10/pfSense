@@ -1,0 +1,12 @@
+# Title
+#
+# Last updated: dd.mm.20xx
+#
+# Git: https://github.com/...
+# Raw file: https://raw.githubusercontent.com/...
+#
+# ================================
+# 
+# One Domain per line:
+# 0.0.0.0 www.example.com
+
